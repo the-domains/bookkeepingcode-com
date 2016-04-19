@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bookkeepingcode.com]]></title>
-        <description><![CDATA[bookkeepingcode.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Where Canadian Bookkeepers succeed]]></title>
+        <description><![CDATA[Where Canadian Bookkeepers succeed]]></description>
+        <link>https://thegrid.ai/bookkeepingcode-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 22:33:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 22:40:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bookkeepingcode-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bookkeeping]]></title>
+            <description><![CDATA[<article><h1>Bookkeeping</h1><p>Making it all add up</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d99b7f4-8a84-4119-913d-11f6fd46a98c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bookkeepingcode-com/bookkeeping/index.html</link>
+            <guid isPermaLink="false">cf9d67f9-4653-4d6b-81b3-af9e17980e58</guid>
+            <pubDate>Tue, 19 Apr 2016 22:40:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7c68344-32af-4099-8a1b-31617575e24c.jpg">]]></description>
-            <link>undefinedbookkeeping-is-more-than-numbers/index.html</link>
+            <link>https://thegrid.ai/bookkeepingcode-com/bookkeeping-is-more-than-numbers/index.html</link>
             <guid isPermaLink="false">5e389842-8760-4b22-9df4-898f6c4ca1a9</guid>
             <pubDate>Tue, 19 Apr 2016 22:33:25 GMT</pubDate>
         </item>
