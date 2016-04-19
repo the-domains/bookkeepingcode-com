@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Making it all add up
-datePublished: '2016-04-19T22:48:15.500Z'
-dateModified: '2016-04-19T22:47:43.783Z'
+datePublished: '2016-04-19T22:50:16.160Z'
+dateModified: '2016-04-19T22:48:23.922Z'
 title: Bookkeeping
 author:
   - name: L M Wannetta Johnson-Hamrell
