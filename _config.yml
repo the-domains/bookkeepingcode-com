@@ -1,6 +1,6 @@
 name: bookkeepingcode.com
 favicon: null
-layout_spectrum: 0.8202339059207588
+layout_spectrum: 0.25425
 typography_spectrum: 0.6952298916876316
 title: Where Canadian Bookkeepers succeed
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#0a0000'
+    - '#e3d9bf'
+    - '#a28c65'
+    - '#624729'
+    - '#d1c3a4'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
