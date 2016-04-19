@@ -4,7 +4,7 @@
         <description><![CDATA[Where Canadian Bookkeepers succeed]]></description>
         <link>https://thegrid.ai/bookkeepingcode-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 23:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 23:25:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bookkeepingcode-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bookkeeping]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bookkeepingcode-com/bookkeeping/index.html</link>
             <guid isPermaLink="false">cf9d67f9-4653-4d6b-81b3-af9e17980e58</guid>
             <pubDate>Tue, 19 Apr 2016 23:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.linkedin.com/pulse/20140611024836-4182835-why-is-bookkeeping-an-important-part-of-business?trk=prof-post</p>]]></description>
+            <link>https://thegrid.ai/bookkeepingcode-com/httpswwwlinkedincompulse20140611024836-4182835-why-is/index.html</link>
+            <guid isPermaLink="false">94f027d7-304e-4e94-8512-75f38c0baa97</guid>
+            <pubDate>Tue, 19 Apr 2016 23:25:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
