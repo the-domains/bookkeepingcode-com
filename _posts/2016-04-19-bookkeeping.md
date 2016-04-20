@@ -6,12 +6,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: Making it all add up
-datePublished: '2016-04-19T23:18:42.735Z'
-dateModified: '2016-04-19T23:00:06.640Z'
+datePublished: '2016-04-20T00:53:28.981Z'
+dateModified: '2016-04-20T00:53:28.679Z'
 title: Bookkeeping
 author:
   - name: L M Wannetta Johnson-Hamrell
-    url: 'http://lmwannettajohnson-hamrell.com/whowherewhatwhen why'
+    url: ''
 sourcePath: _posts/2016-04-19-bookkeeping.md
 published: true
 authors: []
